@@ -1,4 +1,4 @@
-# Web Scraping and Text & Pdf & Mp3 Extraction
+# Web Scraping and Text Extraction Script
 
 This script is designed to automate the process of logging into a website, navigating through specified links, and extracting text content from subpages. It utilizes the requests library for making HTTP requests, BeautifulSoup for parsing HTML, and the os library for file and folder manipulation.
 
