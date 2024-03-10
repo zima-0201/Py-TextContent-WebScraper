@@ -2,6 +2,10 @@
 
 This script is designed to automate the process of logging into a website, navigating through specified links, and extracting text content from subpages. It utilizes the requests library for making HTTP requests, BeautifulSoup for parsing HTML, and the os library for file and folder manipulation.
 
+## Video Preview
+
+[![Video Preview](https://github.com/DevRex-0201/Project-Images/blob/main/video%20preview/Py-TextContent-WebScraper.png)](https://drive.google.com/file/d/13BddvUnbY034azQJGQ2FwnxFBIpwR8yT/view?usp=drive_link)
+
 ## Requirements
 
 Ensure you have the required Python libraries installed. You can install them using the following command:
