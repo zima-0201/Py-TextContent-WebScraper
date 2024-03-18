@@ -4,7 +4,7 @@ This script is designed to automate the process of logging into a website, navig
 
 ## Video Preview
 
-[![Video Preview](https://github.com/DevRex-0201/Project-Images/blob/main/video%20preview/Py-TextContent-WebScraper.png)](https://drive.google.com/file/d/13BddvUnbY034azQJGQ2FwnxFBIpwR8yT/view?usp=drive_link)
+[![Video Preview](https://github.com/DevRex-0201/Project-Images/blob/main/video%20preview/Py-TextContent-WebScraper.png)](https://brand-car.s3.eu-north-1.amazonaws.com/Four+Seasons/Py-TextContent-WebScraper.mp4)
 
 ## Requirements
 
